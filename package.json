@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
-  "main": "lib/index.js",
+  "main": "app1.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/*",
